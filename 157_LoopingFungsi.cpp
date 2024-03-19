@@ -17,5 +17,8 @@ int main() {
 		cin >> arr[i];
 
 	}
+	for (i = 0; i < 5; i++) {
+		cout << "Data Array Ke-" << i << " :" << arr[i] << endl;
+	}
 	
 }
